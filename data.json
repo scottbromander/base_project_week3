@@ -1,0 +1,8 @@
+{
+  "locations" : [
+  {"location" : "Paris" , "population" : 2200000},
+  {"location" : "New York" , "population" : 8400000},
+  {"location" : "Minneapolis" , "population" : 400000},
+  {"location" : "Atlanta" , "population" : 447000}
+  ]
+}
